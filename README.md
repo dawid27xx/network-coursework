@@ -8,3 +8,7 @@ Run the server using javac Server.java, and then java Server.
 Run the client using javac Client.java, and then java Client.
 
 As the client enter a command: put {filename} or list. List returns the files on the server, and put uploads the file onto the server. 
+
+# Results
+
+Coursework grade: 90%
